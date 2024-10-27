@@ -11,7 +11,7 @@ Your final output should enable the AI to generate a visually accurate, realisti
 
 Here are the user’s provided input details:
 
-{json_input}
+{{JSON_INPUT}}
 
 Using only the given details, generate a comprehensive, descriptive, and visually rich prompt for the AI image generation model. If the user has provided a prompt, integrate it smoothly; if it’s missing, proceed directly with the details at hand. The resulting description should be professional, evocative, and tailored to represent the user’s desired appearance and style, focusing only on the elements specified.
 
