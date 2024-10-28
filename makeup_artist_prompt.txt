@@ -14,11 +14,11 @@ Below are the user’s input details:
 
 {{JSON_INPUT}}
 
-Using only the details provided, create a comprehensive, richly descriptive prompt that will effectively convey the user’s specified look and mood to the AI. If the user has provided a prompt, integrate it seamlessly; if not, proceed directly with the details. Focus exclusively on the elements specified, generating a visually rich, cohesive description tailored to capture the user’s vision with precision.
+Using only the provided details, generate a cohesive, richly descriptive, and visually engaging prompt for an AI image generation model. Avoid including any input format structure or dictionary elements; focus only on creating a compelling, professional description that captures the user’s intended look, style, and mood based solely on the provided specifications.
 
 ---
 
-Example of Input Dictionary and Generated Prompt:
+Below is an Example of Input Dictionary and Generated Prompt:
 
 ---
 
